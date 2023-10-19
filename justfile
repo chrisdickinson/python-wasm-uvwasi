@@ -5,4 +5,4 @@ prepare:
   fi
 
 run: prepare
-  node index.js
+  node index.js .
